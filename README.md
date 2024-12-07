@@ -8,6 +8,17 @@ Use this code could be a good start to explore the power of LSTM in sequence dat
 ## Installation
 ```bash	
 conda create -n lstm -f environment.yml
+conda activate lstm
+```
+## Manual Installation
+```bash
+conda create -n lstm python=3.11
+conda activate lstm
+conda install pytorch torchvision torchaudio cudatoolkit=11.1 -c pytorch -c nvidia
+pip install pytorch-lightning
+pip install matplotlib
+pip install numpy
+pip install scikit-learn
 ```
 ## Baseline
 | Model | Loss | F1 Score |
