@@ -1,7 +1,7 @@
 ## About
 This is a simple implementation of LSTM model by using pytorch lightning for classifying MNIST dataset.
 
-Use this code could be a good start to explore the power of LSTM in sequence data.
+Using this code could be a good start to explore the power of LSTM in sequence data.
 
 ## Requirements
 - conda
@@ -35,13 +35,13 @@ python main.py
 python main.py --eval <path_to_model>
 ```
 ## Want Better Results?
-#### Simple Hyperparameter Tuning
+### Simple Hyperparameter Tuning
 You can try the following:
 - Increase the number of epochs
 - Change the model architecture
 - Change the learning rate
-#### Use better architectures
-**Davison Wang** recommands you to read the following paper:
+### Use better architectures
+**Davison Wang** recommends you to read the following paper:
 - https://www.sciencedirect.com/science/article/pii/S0893608021003439
 ## References
 https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_lstm_neuralnetwork/#steps_3
