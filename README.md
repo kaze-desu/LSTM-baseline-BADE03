@@ -4,7 +4,7 @@ A LSTM model baseline implementation based Pytorch
 <br>
 <br>
   
-**English**| [**中文简体**](README_CN.md) |
+**English**| [**中文繁體**](README_CN.md) |
 </div>
 
 
