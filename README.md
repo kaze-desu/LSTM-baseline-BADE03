@@ -5,7 +5,7 @@ Using this code could be a good start to explore the power of LSTM in sequence d
 ## Course Requirements
 According to Davison Wang speech, you should implement your LSTM code with the following requirements:
 
-- Use **MNIST** to be your Datasets
+- Use **MNIST** to be your **datasets**and do a **classification task**.
 - Use **LSTM** to be part of the network architecture
 - Use **F1 Score** to be your scoring scheme
 - Ensure your score **better than** this baseline(**0.98 in F1 Score**)
