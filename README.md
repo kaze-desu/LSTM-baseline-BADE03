@@ -19,6 +19,7 @@ According to Davison Wang speech, you should implement your LSTM code with the f
 - Use **LSTM** to be part of the network architecture
 - Use **F1 Score** to be your scoring scheme
 - Ensure your score **better than** this baseline(**0.98 in F1 Score**)
+- Provide your **model weight**(normally it's a PTH file) file in your project README by any network disk.
 ## Framework Choice
 You could use **YOLO** or **Pytorch** or any other choice if you want. There is no requirement to follow the same framework as this baseline.
 
