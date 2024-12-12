@@ -4,7 +4,7 @@
 <br>
 <br>
   
-[**English**](README.md) | **中文简体** |
+[**English**](README.md) | **中文繁體** |
 </div>
 
 ## 關於
