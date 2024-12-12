@@ -26,7 +26,7 @@
 - conda
 ## 安裝
 ```bash	
-conda create -n lstm -f environment.yml
+conda env create -f environment.yml -n lstm
 conda activate lstm
 ```
 ## 手動安裝
