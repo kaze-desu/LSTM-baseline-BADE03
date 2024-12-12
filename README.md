@@ -27,7 +27,7 @@ You could use **YOLO** or **Pytorch** or any other choice if you want. There is 
 - conda
 ## Installation
 ```bash	
-conda create -n lstm -f environment.yml
+conda env create -f environment.yml -n lstm
 conda activate lstm
 ```
 ## Manual Installation
