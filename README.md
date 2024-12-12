@@ -1,3 +1,13 @@
+<div align="center">
+<h1>LSTM Baseline</h1>
+A LSTM model baseline implementation based Pytorch
+<br>
+<br>
+  
+**English**| [**中文简体**](README_CN.md) |
+</div>
+
+
 ## About
 This is a simple implementation of LSTM model by using pytorch lightning for classifying MNIST dataset.
 
