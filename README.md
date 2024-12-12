@@ -2,6 +2,15 @@
 This is a simple implementation of LSTM model by using pytorch lightning for classifying MNIST dataset.
 
 Using this code could be a good start to explore the power of LSTM in sequence data.
+## Course Requirements
+According to Davison Wang speech, you should implement your LSTM code with the following requirements:
+
+- Use **MNIST** to be your Datasets
+- Use **LSTM** to be part of the network architecture
+- Use **F1 Score** to be your scoring scheme
+- Ensure your score **better than** this baseline(**0.98 in F1 Score**)
+## Framework Choice
+You could use **YOLO** or **Pytorch** or any other choice if you want. There is no requirement to follow the same framework as this baseline.
 
 ## Requirements
 - conda
@@ -24,7 +33,8 @@ pip install scikit-learn
 | Model | Loss | F1 Score |
 |-------|------|----------|
 | [LSTM](https://studentmust-my.sharepoint.com/:u:/g/personal/1220026920_student_must_edu_mo/EcdJZfFRcLtKmeNzTLwOjEwBh8uUJlxxqtGHTzlXxPMynw?e=EYJQQq)  | 0.07 | 0.98     |
-
+## How to duplicate baseline
+- Clone the project and download the model provided above, then follow the **Test** part.
 ## Train
 You can train the model by running the following command:
 ```bash
@@ -34,7 +44,7 @@ python main.py
 ```bash
 python main.py --eval <path_to_model>
 ```
-## Want Better Results?
+## Want A Better Results?
 ### Simple Hyperparameter Tuning
 You can try the following:
 - Increase the number of epochs
