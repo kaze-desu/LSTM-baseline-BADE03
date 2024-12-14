@@ -35,7 +35,7 @@ conda activate lstm
 ```bash
 conda create -n lstm python=3.11
 conda activate lstm
-conda install pytorch torchvision torchaudio cudatoolkit=11.1 -c pytorch -c nvidia
+conda install pytorch==2.4.0 torchvision==0.19.0 torchaudio==2.4.0 pytorch-cuda=12.4 -c pytorch -c nvidia
 pip install pytorch-lightning
 pip install matplotlib
 pip install numpy
