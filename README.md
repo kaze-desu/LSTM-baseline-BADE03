@@ -52,7 +52,7 @@ pip install scikit-learn
 ## Baseline
 | Model | Loss | F1 Score |
 |-------|------|----------|
-| [LSTM](https://studentmust-my.sharepoint.com/:u:/g/personal/1220026920_student_must_edu_mo/EcdJZfFRcLtKmeNzTLwOjEwBh8uUJlxxqtGHTzlXxPMynw?e=EYJQQq)  | 0.07 | 0.98     |
+| [LSTM](https://studentmust-my.sharepoint.com/:u:/g/personal/1220026920_student_must_edu_mo/EcdJZfFRcLtKmeNzTLwOjEwBh8uUJlxxqtGHTzlXxPMynw?e=EYJQQq)  | 0.07 | 0.981     |
 ## How to duplicate baseline
 - Clone the project and download the model provided above, then follow the **Test** part.
 ## Train
