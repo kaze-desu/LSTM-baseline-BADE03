@@ -26,7 +26,7 @@ You could use **YOLO** or **Pytorch** or any other choice if you want. There is 
 ## Requirements
 - conda/mamba
 - pytorch==2.4.0
-- pytorch-lightning>==2.4.0
+- pytorch-lightning==2.4.0
 - lightning==2.4.0
 - matplotlib
 - numpy
