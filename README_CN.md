@@ -25,7 +25,9 @@
 ## 環境需求
 - conda
 ## 安裝
-```bash	
+```bash
+git clone https://github.com/kaze-desu/LSTM-baseline-BADE03.git
+cd LSTM-baseline-BADE03
 conda env create -f environment.yml -n lstm
 conda activate lstm
 ```
