@@ -51,7 +51,7 @@ pip install scikit-learn
 ## 基準值
 | Model | Loss | F1 Score |
 |-------|------|----------|
-| [LSTM](https://studentmust-my.sharepoint.com/:u:/g/personal/1220026920_student_must_edu_mo/EcdJZfFRcLtKmeNzTLwOjEwBh8uUJlxxqtGHTzlXxPMynw?e=EYJQQq)  | 0.07 | 0.98     |
+| [LSTM](https://studentmust-my.sharepoint.com/:u:/g/personal/1220026920_student_must_edu_mo/EcdJZfFRcLtKmeNzTLwOjEwBh8uUJlxxqtGHTzlXxPMynw?e=EYJQQq)  | 0.07 | 0.981     |
 ## 如何復現
 - 將本項目克隆到本地，並下載上方提供的模型，隨後執行**測試**篇章的命令即可。
 ## 訓練
