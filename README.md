@@ -24,7 +24,12 @@ According to Davison Wang speech, you should implement your LSTM code with the f
 You could use **YOLO** or **Pytorch** or any other choice if you want. There is no requirement to follow the same framework as this baseline.
 
 ## Requirements
-- conda
+- conda/mamba
+- pytorch>=2.0.0 and <=2.4.0
+- pytorch-lightning>=2.0.0 and <=2.4.0
+- matplotlib
+- numpy
+- scikit-learn
 ## Installation
 ```bash
 git clone https://github.com/kaze-desu/LSTM-baseline-BADE03.git
