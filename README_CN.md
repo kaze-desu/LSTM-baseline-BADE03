@@ -23,7 +23,12 @@
 你可以選擇使用課上講的**YOLO**作爲實現代碼的框架，也可以跟本項目一樣，選擇**Pytorch**進行實現。無論選擇哪種都是可以的，隨著自己喜好來吧。
 
 ## 環境需求
-- conda
+- conda/mamba
+- pytorch>=2.0.0 and <=2.4.0
+- pytorch-lightning>=2.0.0 and <=2.4.0
+- matplotlib
+- numpy
+- scikit-learn
 ## 安裝
 ```bash
 git clone https://github.com/kaze-desu/LSTM-baseline-BADE03.git
