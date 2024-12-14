@@ -57,6 +57,16 @@ python main.py
 ```bash
 python main.py --eval <path_to_model>
 ```
+## Encountering Issues with This Project's Code?
+
+Please use the "issue" feature to submit your problem. Make sure your issue includes the following details:
+
+- Environment information  
+- Cause of the issue  
+- Expected outcome  
+- Steps to reproduce  
+
+Additionally, if you are able to resolve the issue, you are encouraged to submit a pull request (PR) to the repository and merge your solution, contributing to the improvement of this repository.
 ## Want A Better Results?
 ### Simple Hyperparameter Tuning
 You can try the following:
