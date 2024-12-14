@@ -26,7 +26,9 @@ You could use **YOLO** or **Pytorch** or any other choice if you want. There is 
 ## Requirements
 - conda
 ## Installation
-```bash	
+```bash
+git clone https://github.com/kaze-desu/LSTM-baseline-BADE03.git
+cd LSTM-baseline-BADE03
 conda env create -f environment.yml -n lstm
 conda activate lstm
 ```
